@@ -38,3 +38,6 @@
 
 ### 2. [Модель AS IS + TO BE](https://github.com/VlaStitle1998/Business_System_Analytics/blob/develop/ASIS_TOBE_law.xlsx)
 ### :exclamation::exclamation::exclamation: Был добавлен новый стейкхолдер - разработчик платформы
+
+### 3. [MoSCoW chart](https://github.com/VlaStitle1998/Business_System_Analytics/blob/develop/MoSCoW.png)
+### Приоритизация решений проблем модели AS IS + TO BE
