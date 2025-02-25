@@ -42,5 +42,5 @@
 ### 3. [MoSCoW chart](https://github.com/VlaStitle1998/Business_System_Analytics/blob/develop/MoSCoW.png)
 ### Приоритизация решений проблем модели AS IS + TO BE
 
-### 4. BPMN 2.0
+### 4. [BPMN 2.0](https://github.com/VlaStitle1998/Business_System_Analytics/blob/develop/BPMN%202.0.png)
 ### Моделирование бизнес-процессов платформы юридического документооборота
