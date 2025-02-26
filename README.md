@@ -51,5 +51,5 @@
 ### 6. [ER-диаграмма](https://github.com/VlaStitle1998/Business_System_Analytics/blob/develop/ER_law.png)
 ### Диаграмма связей между сущностями. Нотация Мартина ("воронья лапка")
 
-### 7. PostgreSQL
+### 7. PostgreSQL 17.4
 ### Пример базы данных проекта, построенный в macOS Terminal через Vim
