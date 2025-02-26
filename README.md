@@ -48,5 +48,5 @@
 ### 5. [Словарь Данных](https://github.com/VlaStitle1998/Business_System_Analytics/blob/develop/DATA_DICT_law.xlsx)
 ### Используется для документирования стандартных определений элементов данных
 
-### 6. ER-диаграмма
+### 6. [ER-диаграмма](https://github.com/VlaStitle1998/Business_System_Analytics/blob/develop/ER_law.png)
 ### Диаграмма связей между сущностями. Нотация Мартина ("воронья лапка")
