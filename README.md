@@ -53,3 +53,4 @@
 
 ### 7. PostgreSQL 17.4
 ### Пример базы данных проекта, построенный в macOS Terminal через Vim
+### :exclamation::exclamation::exclamation: Мнемоника case была заменена на incident, чтобы не мешать правильно работе SQL-запроса
