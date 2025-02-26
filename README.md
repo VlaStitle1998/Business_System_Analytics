@@ -51,6 +51,6 @@
 ### 6. [ER-диаграмма](https://github.com/VlaStitle1998/Business_System_Analytics/blob/develop/ER_law.png)
 ### Диаграмма связей между сущностями. Нотация Мартина ("воронья лапка")
 
-### 7. PostgreSQL 17.4
+### 7. [PostgreSQL 17.4](https://github.com/VlaStitle1998/Business_System_Analytics/tree/develop/PostgreSQL)
 ### Пример базы данных проекта, построенный в macOS Terminal через Vim
 ### :exclamation::exclamation::exclamation: Мнемоника case была заменена на incident, чтобы не мешать правильно работе SQL-запроса
